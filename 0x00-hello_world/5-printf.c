@@ -3,7 +3,7 @@
 /**
  * Description: main - Betty things
  * Nice getting to this point
- * Return: successful
+ * Return: 0 always (successful)
  */
 
 int main(void)
