@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * Description: print the different byte sizes of 
- * int, float, double and char
+ * Main: Entry point
  *
  * Return: 0 always (successful)
  */
