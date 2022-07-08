@@ -1,1 +1,1 @@
-Debugging process
+Solving Debugging Problems
