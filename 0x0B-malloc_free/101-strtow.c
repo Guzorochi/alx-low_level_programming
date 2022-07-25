@@ -61,7 +61,7 @@ void util(char **words, char *str)
 			start = i;
 			flag = 1;
 		}
-	
+
 		if (i > 0 && str[i] == ' ' && str[i - 1] != ' ')
 		{
 			create_word(words, str, start, i, j);
@@ -71,7 +71,7 @@ void util(char **words, char *str)
 
 		i++;
 	}
-	
+
 	if (flag == 1)
 		create_word(words, str, start, i, j);
 }
