@@ -21,7 +21,7 @@ void jack_bauer(void)
 		_putchar(minuteFirstDigit + '0');
 		_putchar(minuteSecondDigit + '0');
 		_putchar('\n');
-		
+
 		minuteSecondDigit++;
 		if (minuteSecondDigit > 9)
 		{
